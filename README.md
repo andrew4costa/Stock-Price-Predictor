@@ -1,2 +1,5 @@
 # Stock-Price-Predictor
-A stock price predictor
+
+This project was part of a tutorial, with the goal to predict Tesla's stock price.
+
+The model selected was an LTSM with 3 layers.
